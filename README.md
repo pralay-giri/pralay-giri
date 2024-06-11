@@ -1,14 +1,14 @@
 ![](https://media.licdn.com/dms/image/D4D16AQG1vZfbM7yKvw/profile-displaybackgroundimage-shrink_350_1400/0/1707476062443?e=1714003200&v=beta&t=v1sk5En-bm4Qmok7U7nOGeXGzC02c1LpgymZLCQA5tQ)
 <h1 align="center">Hi 👋, I'm pralay</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pralay-giri" alt="pralay-giri" /></a> </p>
 
-- 🔭 I’m currently working on [coder-media](https://github.com/pralay-giri/coder-media.git)
+- 🔭 I’m currently working on [TRPGLOBAL](https://www.linkedin.com/company/technology-risk-ltd/mycompany/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **nestJs**
 
-- 💬 Ask me about **React.js, Node js, js**
+- 💬 Ask me about **React.js, Node js, js, TypeScript**
 
 - 📫 How to reach me **pralaygiri297@gmail.com**
 
