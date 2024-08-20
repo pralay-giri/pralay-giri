@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pralay-giri" alt="pralay-giri" /></a> </p>
 
-- 🔭 I’m currently working on [TRPGLOBAL](https://www.linkedin.com/company/technology-risk-ltd/mycompany/)
-
 - 🌱 I’m currently learning **nestJs**
 
-- 💬 Ask me about **React.js, Node js, js, TypeScript**
+- 💬 Ask me about **React.js, Node js, js, TypeScript, Nest js**
 
 - 📫 How to reach me **pralaygiri297@gmail.com**
 
