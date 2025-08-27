@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Developer<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Electron<br>💬 Ask me about React, Node, Nest, Redux, MSSQL, OLAP
+🔭 I’m a Full Stack Developer App/web<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Electron<br>💬 Ask me about React, Node, Nest, Redux, MSSQL, OLAP
 
 
 ## 🌐 Socials:
